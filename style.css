@@ -1,0 +1,48 @@
+
+h1.títol{
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    margin: 60px;
+    background-color: gainsboro
+}
+
+
+h1.client{
+    font-weight: bold;
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'Yellowtail', cursive;
+    
+}
+
+main{
+    text-align: center;
+}
+
+p.nm{
+    color: gray;
+}
+
+p.ap{
+    color: gray;
+}
+p.it{
+    color: gray;
+}
+p.contr{
+    color: gray;
+}
+p.olvi{
+    color: red;
+    font-weight: bold;
+}
+input.acceso{
+    color: red;
+    margin: 30px;
+    background-color: gainsboro;
+}
+input.grúa{
+    color: red;
+    background-color: gainsboro;
+}
+
